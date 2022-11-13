@@ -13,6 +13,6 @@
     "lodash": "^4.17.19",
     "three": "^0.113.2",
     "webpack": "^4.41.5",
-    "webpack-cli": "^3.3.10"
+    "webpack-cli": "^3.3.12"
   }
 }
